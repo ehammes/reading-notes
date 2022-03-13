@@ -6,7 +6,7 @@ My name is Elizabeth and this is my first page on Github! My portfolio page can 
 
 **Notes for Code102**
 - [Growth Mindset](https://ehammes.github.io/reading-notes/growth-mindset)
-- [What is GitHub](https://ehammes.github.io/github)
+- [What is GitHub](https://ehammes.github.io/reading-notes/github)
 - [Markdown Guide](https://ehammes.github.io/reading-notes/markdown-guide)
 - [Additional Learning Topics](https://ehammes.github.io/reading-notes/Learning-Topics)
 - [Articles](https://ehammes.github.io/reading-notes/articles)
