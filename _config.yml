@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Elizabeth's homepage
 description: Keep an eye on my project updates by bookmarking this page!
+url: https://USERNAME.github.io/reading-notes/
+accent_image:
+  background: '#1eadff'
+  overlay: false
+font: "Arial"
