@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Growth Mindset! :v:
 
-You can use the [editor on GitHub](https://github.com/ehammes/ehammes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> ***What is growth mindset?***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A person with a growth mindset embraces and perseveres through challenges instead of avoiding tough obstacles. Instead of staying clear of challenging work and setting lofty goals, a person with a growth mindset recognizes the success they can accomplish and satisfaction they will feel by maintaining their confidence and focusing on the task at hand.  
 
-### Markdown
+> ***What are 3 ways to keep yourself in a growth mindset?***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ehammes/ehammes.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Remember to think about how you'll feel at the end of the day when you put in less effort than what you strived for that day, a sense of regret and unfulfillment.
+2. Recognize when you are losing focus or avoiding obstacles and help guide yourself back on course and build momentum.
+3. Instead of giving up, embrace challenges by using a growth mindset to approach a challenge in a different way in order to help solve the root cause of a problem.
