@@ -8,3 +8,4 @@ My name is Elizabeth and this is my first page on Github! My portfolio page can 
 - [Growth Mindset](https://ehammes.github.io/reading-notes/growth-mindset)
 - [Markdown Guide](https://ehammes.github.io/reading-notes/markdown-guide)
 - [Additional Learning Topics](https://ehammes.github.io/reading-notes/Learning-Topics)
+- [Articles](https://ehammes.github.io/reading-notes/articles)
