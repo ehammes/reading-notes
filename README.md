@@ -1,8 +1,11 @@
-## Growth Mindset! :v:
+My name is Elizabeth and this is my first page on Github! My portfolio page can be viewed [here](https://github.com/ehammes)
+
+
+## Growth Mindset!
 
 > ***What is growth mindset?***
 
-A person with a growth mindset embraces and perseveres through challenges instead of avoiding tough obstacles. Instead of staying clear of challenging work and setting lofty goals, a person with a growth mindset recognizes the success they can accomplish and satisfaction they will feel by maintaining their confidence and focusing on the task at hand.  
+A person with a growth mindset embraces and perseveres through challenges instead of avoiding tough obstacles. Instead of staying clear of challenging work and setting lofty goals, a person with a growth mindset recognizes the success they can accomplish and satisfaction they will feel by maintaining their confidence and focusing on the task at hand. :v:  
 
 > ***What are 3 ways to keep yourself in a growth mindset?***
 
