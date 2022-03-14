@@ -1,4 +1,4 @@
-## Growth Mindset
+# Growth Mindset
 
 > **What is a growth mindset?**
 
