@@ -6,7 +6,6 @@ Below are some examples:
 ## Headings
 
 ```text
-
 # The largest heading
 ## The second largest heading
 ### Some text
@@ -30,7 +29,6 @@ Below are some examples:
 ## How do you quote text?
 
 ```text
-
 Text that is not a quote
 > Text that is a quote
 ```

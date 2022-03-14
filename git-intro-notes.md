@@ -8,3 +8,10 @@ Allows you to revisit various versions of a file or set of files by recording ch
 - Distributed Version Control Systems (DVCS): allows clients to create mirrored repositories. Git is a DVCS that stores data in a file system made up of snapshots.
 - Commit: each time you save a changed version of your project
 - Files in Git can reside in three main states: committed, modified, and staged
+
+**For this lesson I completed the following:**
+
+1. Downloaded Git
+2. Configured my text editor
+3. Setup Git Repository
+4. Made updates to files, tracked changes, and committed files
