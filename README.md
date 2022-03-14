@@ -12,4 +12,4 @@ My name is Elizabeth and this is my first page on GitHub! My portfolio page can 
 - [Additional Learning Topics](https://ehammes.github.io/reading-notes/Learning-Topics)
 - [Articles](https://ehammes.github.io/reading-notes/articles)
 - [Coder's Computer Notes](https://ehammes.github.io/reading-notes/coders-computer-notes)
-- [GitHub Intro Notes](https://ehammes.github.io/reading-notes/github-intro-notes)
+- [GitHub Intro Notes](https://ehammes.github.io/reading-notes/git-intro-notes)
