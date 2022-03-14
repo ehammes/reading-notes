@@ -10,3 +10,4 @@ My name is Elizabeth and this is my first page on GitHub! My portfolio page can 
 - [Markdown Guide](https://ehammes.github.io/reading-notes/markdown-guide)
 - [Additional Learning Topics](https://ehammes.github.io/reading-notes/Learning-Topics)
 - [Articles](https://ehammes.github.io/reading-notes/articles)
+- [Coder's Computer Notes](https://ehammes.github.io/reading-notes/coders-computer-notes)
