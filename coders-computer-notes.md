@@ -1,4 +1,4 @@
-# Coders Computer Notes
+# The Coder's Computer Notes
 
 ## Choosing a Text Editor
 All text editors are pretty similar, but each comes with different features. Select a text editor that you enjoy the most
