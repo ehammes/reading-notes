@@ -13,4 +13,4 @@ My name is Elizabeth and this is my first page on GitHub! My portfolio page can 
 - [Articles](https://ehammes.github.io/reading-notes/articles)
 - [Coder's Computer Notes](https://ehammes.github.io/reading-notes/coders-computer-notes)
 - [GitHub Intro Notes](https://ehammes.github.io/reading-notes/git-intro-notes)
-- [HTML Notes] (httpsL//ehammes.github.io/reading-notes/HTML)
+- [HTML Notes](https://ehammes.github.io/reading-notes/HTML)
