@@ -6,7 +6,7 @@ Add content to your page by using simple syntax. Basic writing and formatting sy
 Refer to the following guides for additional details:
 
 1. [Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-2. [Markdown Guide](https://ehammes.github.io/reading-notes/growth-mindset) 
+2. [Markdown Guide](https://ehammes.github.io/reading-notes/growth-mindset)
 
 ## Creating GitHub pages
 
