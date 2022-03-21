@@ -10,7 +10,7 @@ An external stylesheet contains CSS in a separate file with a .css extension. Th
 
 You reference an external CSS stylesheet from an HTML **link** element
 To link styles.css to index.html, add the following line somewhere inside the **head** of the HTML document:
-> '<link rel="stylesheet" href="styles.css"'
+> <link rel="stylesheet" href="styles.css"
 
 Add styling elements to change the default behavior for all main areas of the page, including header, main, footer, img, etc.
 Refer to [CSS Documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS) for more information.
