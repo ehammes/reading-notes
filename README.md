@@ -15,3 +15,4 @@ My name is Elizabeth and this is my first page on GitHub! My portfolio page can 
 - [GitHub Intro Notes](https://ehammes.github.io/reading-notes/git-intro-notes)
 - [HTML Notes](https://ehammes.github.io/reading-notes/HTML)
 - [CSS Notes](https://ehammes.github.io/reading-notes/css-notes)
+- [Javascript Notes](https://ehammes.github.io/reading-notes/javascript)
