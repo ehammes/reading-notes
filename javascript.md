@@ -9,10 +9,7 @@ You can declare many variables in one statement. Start the statement with let an
 
 ## 4 Ways to Declare a JavaScript Variable
 
-Using var
-Using let
-Using const
-Using nothing
+Using var, using let, const, sing nothing
 
 ## Javascript Identifiers
 
@@ -21,11 +18,11 @@ These unique names are called identifiers.
 Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
 The general rules for constructing names for variables (unique identifiers) are:
 
-Names can contain letters, digits, underscores, and dollar signs.
-Names must begin with a letter
-Names can also begin with $ and _ (but we will not use it in this tutorial)
-Names are case sensitive (y and Y are different variables)
-Reserved words (like JavaScript keywords) cannot be used as names
+- Names can contain letters, digits, underscores, and dollar signs.
+- Names must begin with a letter
+- Names can also begin with $ and _ (but we will not use it in this tutorial)
+- Names are case sensitive (y and Y are different variables)
+- Reserved words (like JavaScript keywords) cannot be used as names
 
 ## Javascript Data Types
 
