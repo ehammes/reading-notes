@@ -17,3 +17,4 @@ My name is Elizabeth and this is my first page on GitHub! My portfolio page can 
 - [CSS Notes](https://ehammes.github.io/reading-notes/css-notes)
 - [Javascript Notes](https://ehammes.github.io/reading-notes/javascript)
 - [Programming with JS Notes](https://ehammes.github.io/reading-notes/programming-with-javascript-notes)
+- [Operators and Loops Notes](https://ehammes.github.io/reading-notes/operatorsloops)
