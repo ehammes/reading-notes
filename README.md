@@ -6,7 +6,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 
 ## **Code201 Reading Notes**
 
-1. Read: 01 - Introductory HTML and JavaScript
+1. [Read: 01 - Introductory HTML and JavaScript](https://ehammes.github.io/reading-notes/class-01)
 2. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 3. Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 4. Read: 04 - HTML Links, CSS Layout, JS Functions
