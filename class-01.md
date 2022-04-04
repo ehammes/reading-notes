@@ -6,6 +6,8 @@ Rreview how HTML is used to create web pages, how CSS uses rules to enable you t
 
 ## HTML Chapter 1: “Structure” (pp.12-39)
 
+HTML code is made up of **elements** and **tags**. HTML uses elements to describe the structure of pages. Tags act like containers and tell you something about the information that lies between their opening and closing tags. Attriutes tell us more about elements.
+
 ## HTML Chapter 8: “Extra Markup” (p.176-199)
 
 ## HTML Chapter 17: “HTML5 Layout” (pp.428-451)
