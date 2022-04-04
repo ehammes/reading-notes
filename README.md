@@ -1,6 +1,6 @@
 # About
 
-My name is Elizabeth and this is my first page on GitHub! My portfolio page can be viewed [here](https://github.com/ehammes)
+My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehammes). This page captures my class notes from Code102 and Code201.
 
 ![1619410098667](https://user-images.githubusercontent.com/84824067/158040576-f0fc5fbd-5271-41ee-8831-ab785796dff5.png)
 
