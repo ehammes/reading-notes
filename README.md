@@ -32,7 +32,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 - [01 Markdown Guide](https://ehammes.github.io/reading-notes/Code102/markdown-guide)
 - [02 Coder's Computer Notes](https://ehammes.github.io/reading-notes/Code102/coders-computer-notes)
 - [03 GitHub Intro Notes](https://ehammes.github.io/reading-notes/Code102/git-intro-notes)
-- [04 HTML Notes](https://ehammes.github.io/reading-notesCode102//HTML)
+- [04 HTML Notes](https://ehammes.github.io/reading-notes/Code102//HTML)
 - [05 CSS Notes](https://ehammes.github.io/reading-notes/Code102/css-notes)
 - [06 Javascript Notes](https://ehammes.github.io/reading-notes/Code102/javascript)
 - [07 Programming with JS Notes](https://ehammes.github.io/reading-notes/Code102/programming-with-javascript-notes)
