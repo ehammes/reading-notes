@@ -6,13 +6,39 @@ Rreview how HTML is used to create web pages, how CSS uses rules to enable you t
 
 ## HTML Chapter 1: “Structure” (pp.12-39)
 
-HTML code is made up of **elements** and **tags**. HTML uses elements to describe the structure of pages. Tags act like containers and tell you something about the information that lies between their opening and closing tags. Attriutes tell us more about elements.
+HTML code is made up of **elements** and **tags**. HTML uses elements to describe the structure of pages. Tags act like containers and tell you something about the information that lies between their opening and closing tags. Atributes tell us more about elements. The attribute **name** indicates what kind of extra information you are suppplying about the element's content (ie lang=). The **value** is the infor or setting for the attibute.
+
+The `<head>` tag contains information about the page. Everything inside the `<body>` element is shown inside the main browser window. The title element is shown in the browser tab.
 
 ## HTML Chapter 8: “Extra Markup” (p.176-199)
 
+**DocTypes** tell a browser which version of HTML the page is using. Notes can be added to code by using `<!-- comment goes here -->`
+Every HTML element can carry the id atrribute and class attribute. ID attributes uniquely identify individual elements while the calss attribute identifies several elements.
+Examples of block elements are `<h1>`, `<p>`, `<ul>`, and `<li>`
+Examples of inline elements are `<a>`, `<b>`, `<em>`, and `<img>`
+The `<div>` element allows you to group a set of elements together in on block-level box
+The `<span>` element acts like an inline equivalent of the `<div>` element and it is used to contain a section of text or contain a number of inline elements.
+iframes (inline frame) are used to display information from another page.
+
+Information about your pages is done through the **meta** element. Meta data contains information such as description, keywords, robots, author, pragma, expires.
+
 ## HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
+The new HTML5 layout elements include:
+
+- **`<header>`**
+- **`<footer>`**
+- **`<nav>`**: used for navigational blocks
+- **`<article>`**:
+- **`<asides>`**: either contains information for the page or for a particular article element
+- **`<section>`**: used to group related content together
+- **`<hgroup>`**: to group together a set of one or more title elements
+- **`<figure>`**
+- **`<div>`**
+
 ## HTML Chapter 18: “Process & Design” (pp.452-475)
+
+The content and design of a website should be influenced by the goals of the website's users. Understand the reasons for why visitors are coming to the website and organize the information into sections or pages - **site maps** - which is used to structure the site. A **wireframe** is a simple sketch of the key information that needs to go on each page of a site. Communicate through the use of visual design by organizing and prioritizing information that helps the user understand importance and what to focus on.
 
 ---
 
