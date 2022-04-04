@@ -98,4 +98,6 @@ Whwn you want to use JavaScript with a web page, you use the HTML `<script>` ele
 
 `document.write('Good afternoon!')` - the **document** object represents the entire web page. The `write()` method of the **document** object allows new content to be written in to the page where the `<script>` element sits. Each piece of intformation is called a **parameter** of the method and the method needs to know what to write to the page. When the browser comes across a `<script>` element, it stops to load the script and then checks to see if it need to do anything.
 
-#### Things I want to know more about:
+#### Things I want to know more about
+
+- Practicing more with CSS
