@@ -2,6 +2,8 @@
 
 ## Introduction to HTML (pp.2-11)
 
+Rreview how HTML is used to create web pages, how CSS uses rules to enable you to control the styling and layout of web pages (presentation and layout), and finally how to build better websites.People access websites using software called a **web browser**. When you uask your browser for a web page, the rquest is sent across the Internet to a special computer known as a **web server** which hosts the website. **Screen Readers** are programs that read out the contents of a computer screen to a user. All wbesites use HTML and CSS< but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
+
 ## HTML Chapter 1: “Structure” (pp.12-39)
 
 ## HTML Chapter 8: “Extra Markup” (p.176-199)
