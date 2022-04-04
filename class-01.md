@@ -10,7 +10,7 @@
 
 ## HTML Chapter 18: “Process & Design” (pp.452-475)
 
--
+---
 
 ## Introduction to Javascript
 
@@ -27,7 +27,7 @@ How Javascript makes web pages more interactive:
 3. **Program** Rules - specify a set steps for the browser to follow, which allows it to access or change the content of a page
 4. **React** to Events - specify that a script should run when a specific event has occurred
 
--
+---
 
 ## JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
