@@ -31,9 +31,9 @@ How Javascript makes web pages more interactive:
 
 ## JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
-**A**: What is a script and how do I create one?
-**B** How do computers fit in with the world around them?
-**C** How do I write a script for a web page?
+- **A**: What is a script and how do I create one?
+- **B** How do computers fit in with the world around them?
+- **C** How do I write a script for a web page?
 
 A **script** is a series of instructions that a computer can follow to achieve a goal. Examples include comparing scripts to receipes, handbooks, and manuals. Each time the script runs, it might only use a subset of all the instructions. Computers approach tasks programmatically. To approach writing a script, break down your goal into a series of tasks.
 
