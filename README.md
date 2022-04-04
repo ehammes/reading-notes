@@ -6,7 +6,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 
 ## **Code201 Reading Notes**
 
-1. [Read: 01 - Introductory HTML and JavaScript](https://ehammes.github.io/reading-notes/class-01)
+1. [Read: 01 - Introductory HTML and JavaScript](https://ehammes.github.io/reading-notes/Code201/class-01)
 2. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 3. Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 4. Read: 04 - HTML Links, CSS Layout, JS Functions
@@ -24,16 +24,16 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 
 ## **Code102 Reading Notes**
 
-- [Growth Mindset](https://ehammes.github.io/reading-notes/growth-mindset)
-- [What is GitHub](https://ehammes.github.io/reading-notes/github)
-- [Additional Learning Topics](https://ehammes.github.io/reading-notes/Learning-Topics)
-- [Articles](https://ehammes.github.io/reading-notes/articles)
+- [Growth Mindset](https://ehammes.github.io/reading-notes/Code102/growth-mindset)
+- [What is GitHub](https://ehammes.github.io/reading-notes/Code102/github)
+- [Additional Learning Topics](https://ehammes.github.io/reading-notes/Code102/Learning-Topics)
+- [Articles](https://ehammes.github.io/reading-notes/Code102/articles)
 
-- [01 Markdown Guide](https://ehammes.github.io/reading-notes/markdown-guide)
-- [02 Coder's Computer Notes](https://ehammes.github.io/reading-notes/coders-computer-notes)
-- [03 GitHub Intro Notes](https://ehammes.github.io/reading-notes/git-intro-notes)
-- [04 HTML Notes](https://ehammes.github.io/reading-notes/HTML)
-- [05 CSS Notes](https://ehammes.github.io/reading-notes/css-notes)
-- [06 Javascript Notes](https://ehammes.github.io/reading-notes/javascript)
-- [07 Programming with JS Notes](https://ehammes.github.io/reading-notes/programming-with-javascript-notes)
-- [08 Operators and Loops Notes](https://ehammes.github.io/reading-notes/operatorsloops)
+- [01 Markdown Guide](https://ehammes.github.io/reading-notes/Code102/markdown-guide)
+- [02 Coder's Computer Notes](https://ehammes.github.io/reading-notes/Code102/coders-computer-notes)
+- [03 GitHub Intro Notes](https://ehammes.github.io/reading-notes/Code102/git-intro-notes)
+- [04 HTML Notes](https://ehammes.github.io/reading-notesCode102//HTML)
+- [05 CSS Notes](https://ehammes.github.io/reading-notes/Code102/css-notes)
+- [06 Javascript Notes](https://ehammes.github.io/reading-notes/Code102/javascript)
+- [07 Programming with JS Notes](https://ehammes.github.io/reading-notes/Code102/programming-with-javascript-notes)
+- [08 Operators and Loops Notes](https://ehammes.github.io/reading-notes/Code102/operatorsloops)
