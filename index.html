@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Class 01 Lab</title>
+    <!--Internal Style-->
+    <style>
+      body {
+        background-color: rgb(198, 250, 245);
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      h1 {
+        color: rgb(0, 0, 0);
+        background-color: rgb(171, 169, 255);
+        text-align: center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        border: 2px solid cornflowerblue;
+      }
+      p {
+        color:black;
+        background-color: rgb(203, 249, 234);
+        padding: 5px;
+        margin: auto;
+        height: 50px;
+        width: 1000px;
+        text-align: center;
+        border-bottom: 5px dotted #F56446;
+        overflow: scroll;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Class 01 Lab</h1>
+    </header>
+    <main>
+      <p>Welcome to Class 01 Lab. Below are the questions you answered.</p>
+      <p style="background-color: plum; color: black; text-align: left">Q1: What is your name?</p>
+      <p style="background-color: rgb(255, 97, 97); color: rgb(0, 0, 0); text-align: left">Q2: What is your favorite color?</p>
+      <p style="background-color: rgb(28, 98, 248); color: rgb(31, 2, 38); text-align: right">Q3: What is your favorite food?</p>
+      <p style="background-color: rgb(255, 230, 230); color: rgb(0, 0, 0); text-align: right">Q4: What day of the week is it today?</p>
+    </main>
+    <footer>
+    </footer>
+    <!--add js script towards bottom-->
+    <p><script>
+      let responseOne = prompt("What is your name?");
+      alert('Hello ' + responseOne);
+      let responseTwo = prompt("What is your favorite color?");
+      alert(responseTwo + " is a great color, " + responseOne);
+      let responseThree = prompt('What is your favorite food?');
+      alert (responseOne + ', the sky is ' + responseTwo + ' while eating ' + responseThree + ', yum!');
+      let responseFour = prompt('What day of the week is it today?');
+      alert (responseOne + ', ' + responseTwo + " is my favorite color too and I like to eat " + responseThree + ' on ' + responseFour + 's.');
+      console.log("responses are Q1 " + responseOne + ', Q2 ' + responseTwo + ', Q3 ' + responseThree + ', Q4 ' + responseFour);
+      document.write("Your responses to the questions: Your name is " + responseOne + ", favorite color is " + responseTwo + ", favorite food is " + responseThree + ", and today is " + responseFour + "!");
+    </script></p>
+  </body>
+</html>
