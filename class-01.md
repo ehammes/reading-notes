@@ -14,7 +14,7 @@
 
 ## Introduction to Javascript
 
-Learning to program with JS involges:
+Learning to program with JS involves:
 
 1. Understanding some **brasic programming concepts** and the terms that JS programmers user to describe them
 2. Learning **the language** itself, and, like all languages, you need to know its vocabulary and how to structure your sentences
@@ -44,3 +44,28 @@ To write a **script**, you need to first staate your goal and then list the task
 3. Code each step
 
 Use *flowcharts* to work out how the different tasks fit together.
+
+Each physical thing in the world can be represented as an **object**. Each object can have its own properties, events, and methods. Each **property** of an object has a **name** and a **value**. When a specific **event** happens, that event can be used to trigger a specific section of the cose. **Methods** represent things people need to do with objects. The **events**, **models**, and **properties** of a object all relate to each other. Events can trigger methods, and methods can retrieve or update an object's properties.
+
+Types of objects include:
+
+- Window
+- Document
+
+### How a browser sees a web page**
+
+1. Receive a page as HTML code
+2. Create a model of the page and store it in memory
+3. Use a rendering engine to show the page on screen
+
+### How HTML, CSS, & Javascript fit together
+
+Content Layer - .html files, gives the page structure and adds semantics
+Presentation Layer - .css files, enhances the HTML page with rules that state how the HTML content is presented
+Behavior Layer - .js files, how the page behaves, adding interactivity
+
+Whwn you want to use JavaScript with a web page, you use the HTML `<script>` element to tell the browser it is coming across a script. Its src attribute tells people where the JavaScript file is stored. You may see JavaScript in the HTML between opening `<script>` and closing tags, but it is better to put scripts in their own files.
+
+`document.write('Good afternoon!')` - the **document** object represents the entire web page. The `write()` method of the **document** object allows new content to be written in to the page where the `<script>` element sits. Each piece of intformation is called a **parameter** of the method and the method needs to know what to write to the page. When the browser comes across a `<script>` element, it stops to load the script and then checks to see if it need to do anything.
+
+#### Things I want to know more about
