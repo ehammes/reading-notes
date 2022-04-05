@@ -78,6 +78,6 @@ Two components of a decision: an expression is evaluated and returns a value AND
 The **if** statement evaluates or checks a condition.
 The **if...else** statement checks a condition. If it resolves to true the first code block is executed. If the condition resolves to false the second code block is run instead.
 
-## Things I want to know more about
+### Things I want to know more about
 
 Need to practice different decisions and loops
