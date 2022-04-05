@@ -1,5 +1,7 @@
 # Read: 01 - Introductory HTML and JavaScript
 
+via "HTML & CSS: Design and Build Websites" and "Javascript & JQuery: Interactive front-end web development" by Jon Duckett
+
 ## Introduction to HTML (pp.2-11)
 
 Rreview how HTML is used to create web pages, how CSS uses rules to enable you to control the styling and layout of web pages (presentation and layout), and finally how to build better websites.People access websites using software called a **web browser**. When you uask your browser for a web page, the rquest is sent across the Internet to a special computer known as a **web server** which hosts the website. **Screen Readers** are programs that read out the contents of a computer screen to a user. All wbesites use HTML and CSS< but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
@@ -29,7 +31,7 @@ The new HTML5 layout elements include:
 - **`<header>`**
 - **`<footer>`**
 - **`<nav>`**: used for navigational blocks
-- **`<article>`**:
+- **`<article>`**
 - **`<asides>`**: either contains information for the page or for a particular article element
 - **`<section>`**: used to group related content together
 - **`<hgroup>`**: to group together a set of one or more title elements
