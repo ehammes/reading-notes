@@ -30,7 +30,7 @@ Text elements that add extra information to the page, but don't affect the struc
 
 CSS **Selectors** indcate which element the rule applies to while **declarations** indicate how the lements referred to in the selector should be styled. Declarations sit inside curly brakcets and each is made up of two parts: a **property** and a **value**, separated by a colon. Properties indicate the aspects of the element you want to change while values specify the settings you want to use for the chosen properties.
 
-For `<link>` involves href (specifies the path to the CSS file), type (specifies the type of document being linked to), and rel (specifies the relationship betweeen the HTML page and the file it is linked to). 
+For `<link>` involves href (specifies the path to the CSS file), type (specifies the type of document being linked to), and rel (specifies the relationship betweeen the HTML page and the file it is linked to).
 
 Types of CSS Selectors:
 
@@ -77,3 +77,7 @@ Two components of a decision: an expression is evaluated and returns a value AND
 
 The **if** statement evaluates or checks a condition.
 The **if...else** statement checks a condition. If it resolves to true the first code block is executed. If the condition resolves to false the second code block is run instead.
+
+## Things I want to know more about
+
+Need to practice different decisions and loops
