@@ -5,23 +5,23 @@ via "HTML & CSS: Design and Build Websites" and "Javascript & JQuery: Interactiv
 ## Chapter 2: “Text” (pp.40-61)
 
 - HTML has six "levels" of headings (h1 to h6)
--`<p>`: create a paragraph
--`<b>`: bold
--`<i>`: italic
--`<sup>`: superscript
--`<sub>`: subscript
--`<br>`: line break
--`<hr>`: horizontal rule
--`<strong>`: bold
--`<em>`: emphasis / italics
--`<blockquote>`: used for longer quotes
--`<q>`: used for shorter quotes within a paragraph
--`<abbr>`: used for abbreviations
--`<cite>`: used for citations
--`<dfn>`: used to indicate the defining instance of a new term
--`<address>`: contains contact details for the auothor of th epage
--`<ins>` and `<del>`: to show content that has been inserted or deleted to/from a document.
--`<s>`: represents something that is no longer accurate or relevant
+- `<p>`: create a paragraph
+- `<b>`: bold
+- `<i>`: italic
+- `<sup>`: superscript
+- `<sub>`: subscript
+- `<br>`: line break
+- `<hr>`: horizontal rule
+- `<strong>`: bold
+- `<em>`: emphasis / italics
+- `<blockquote>`: used for longer quotes
+- `<q>`: used for shorter quotes within a paragraph
+- `<abbr>`: used for abbreviations
+- `<cite>`: used for citations
+- `<dfn>`: used to indicate the defining instance of a new term
+- `<address>`: contains contact details for the auothor of th epage
+- `<ins>` and `<del>`: to show content that has been inserted or deleted to/from a document.
+- `<s>`: represents something that is no longer accurate or relevant
 
 If a browser comes across two or more spaces next to each other, it only displays one space.
 Text elements that add extra information to the page, but don't affect the structure of your web pages are known as **semantic markup**.
