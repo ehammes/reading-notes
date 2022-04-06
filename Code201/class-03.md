@@ -6,9 +6,9 @@ via "HTML & CSS: Design and Build Websites" and "Javascript & JQuery: Interactiv
 
 - Ordered Lists: a numbered list
 - Unordered Lists: bullet point lists
-- Defiition Lists: a list of a set of terms along with each definition. Created with the `<dl>` element and `<dt>` is used to contain the term being definited (definition term) and `<dd>` is used to contain the definition. **Nested** lists can be created by putting a second list inside an `<li>` element.
+- Definition Lists: a list of a set of terms along with each definition. Created with the `<dl>` element and `<dt>` is used to contain the term being defined (definition term) and `<dd>` is used to contain the definition. **Nested** lists can be created by putting a second list inside an `<li>` element.
 
-**Ordered and unordered lists**: ordred lists use the `<ol>` element while unordered lists use the `<ul>` element. Each line item in the list is placed between an opening and closing tag using `<li>` aka list item.
+**Ordered and unordered lists**: ordered lists use the `<ol>` element while unordered lists use the `<ul>` element. Each line item in the list is placed between an opening and closing tag using `<li>` aka list item.
 
 ## Chapter 13: “Boxes” (pp.300-329)
 
@@ -24,16 +24,16 @@ via "HTML & CSS: Design and Build Websites" and "Javascript & JQuery: Interactiv
 2. **Margin**: margins sit outside the edge of the border, can create a gap between the borders of two adjacent boxes
 
      - If one box sits on top of another, margins are collapsed
-     - Different values can be specified using margin-top, right, botton, left
+     - Different values can be specified using margin-top, right, bottom, left
      - shorthand (the values are in clockwise order): 10px 10px 5 px 5px
 
 3. **Padding**: is the space between the border of a box and any content contained within it
 
-    - Most often specifiedin pixels px, different values for each side can be definited using padding-top, right, bottom, left
+    - Most often specified pixels px, different values for each side can be defined using padding-top, right, bottom, left
     - shorthand (the values are in clockwise order): 10px 10px 5 px 5px
 
 - To center a box on the page, set the left-margin and right-margin to auto.
-- **Display**: turn an inline element into a block-level element or vice versa using inline, block, inline-block, and none. Use the vsiility property with hidden or visible to hide or show boxes.
+- **Display**: turn an inline element into a block-level element or vice versa using inline, block, inline-block, and none. Use the visibility property with hidden or visible to hide or show boxes.
 - The **border-image** property applies an image to the border of the box. This property requires 1. the URL of the image 2. where to slice the image 3. what to do with the straight edges (stretch, repeat, round).
 - The **box-shadow** property adds a drop shadow around the box. Horizontal offset (negative values), vertical offset (negative values), blur distance, and spread of shadow.
 - Rounded Corners via **border-radius**
@@ -46,7 +46,7 @@ An **Array** stores a list or a set of values that are related to each other. Th
 
 ## Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
 
-A **switch** statement starts with a variable called the **switch value**. `switch()`statement has a **default** `default:` option that is run if noneo of the cases match. `break;` statement stops the rest of the switch statement running. The message is stored in a variable called **msg**.
+A **switch** statement starts with a variable called the **switch value**. `switch()`statement has a **default** `default:` option that is run if none of the cases match. `break;` statement stops the rest of the switch statement running. The message is stored in a variable called **msg**.
 
 Type coercion and weak typing
 Truthy & Falsy values
@@ -55,6 +55,6 @@ Short circuit values
 
 **Loops** check a condition. If it returns **true**, a code block will run. It repeats until the condition returns **false**. Three common types of loops:
 
-1. For: run code a specific number of times (most common type of loop), usually a counter. Create a variable, configure the condition (counter), counter is updated each time
-2. While: the code will continue to loop for as long as the condition is true
-3. Do While: it will always run the statements inside the curly braces at least once, even if the condition evaluates to false
+1. **For**: run code a specific number of times (most common type of loop), usually a counter. Create a variable, configure the condition (counter), counter is updated each time
+2. **While**: the code will continue to loop for as long as the condition is true
+3. **Do While**: it will always run the statements inside the curly braces at least once, even if the condition evaluates to false
