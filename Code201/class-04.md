@@ -15,7 +15,6 @@ Links are created with `<a>` tag and **href** attribute is used to specify the U
 
 Email links will open up into a user's email client using **mailto:**. **Target** is used to open links into a new window (ie points to a different website). ID attributes are used to link to different parts of a page.
 
-
 ## Chapter 15: “Layout” (pp.358-404)
 
 - Note: This layout chapter is BIG. Focus your attention on understanding the core concepts presented on pp.358-364, and look at the code samples on the website that accompanies the textbook. You will have another reading assignment on this chapter, so do not try to digest it all now.
@@ -36,7 +35,7 @@ You may have to use **box offset** properties to indicate to the browser how far
 
 ### Function
 
-**Functions** allow you to group a series of statements together to performa a specific task. You can reuse the function if different parts of the script repeat the same tasks. Pieces of information passed to a function are called **parameters**. The **return value** is the output of the function. A function **declaration** is required using the function keywords, name, and statements. **Calling the function** is done by using the function name, this executes the statements in the function. Parameters are are listed within the function. When calling a function, the **arguments** are listed for the function to use. Functions can return more than one value using an array. The location where you declare your varables matters, if its within the function then it can only be used for that function. This is known as the variable's **scope**.
+**Functions** allow you to group a series of statements together to performa a specific task. You can reuse the function if different parts of the script repeat the same tasks. Pieces of information passed to a function are called **parameters**. The **return value** is the output of the function. A function **declaration** is required using the function keywords, name, and statements. **Calling the function** is done by using the function name, this executes the statements in the function. Parameters are are listed within the function. When calling a function, the **arguments** are listed for the function to use. Functions can return more than one value using an array. The location where you declare your variables matters, if its within the function then it can only be used for that function. This is known as the variable's **scope**.
 
 ## Article: “6 Reasons for Pair Programming”
 
