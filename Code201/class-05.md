@@ -51,4 +51,4 @@ NOTE: The post has a TL;DR you might find handy. See [here](https://blog.imageki
 
 - **JPEG** format: images that contain a natural scene or photograph where variation in color and intensity is smooth.
 - **PNG** format: images that need transparency or images with text & objects with sharp contrast edges like logos.
-- **GIF** format: containsg animation
+- **GIF** format: containing animation
