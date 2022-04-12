@@ -12,7 +12,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 4. [Read: 04 - HTML Links, CSS Layout, JS Functions](/reading-notes/Code201/class-04)
 5. [Read: 05 - HTML Images; CSS Color & Text](/reading-notes/Code201/class-05)
 6. [Read: 06 - JS Object Literals; The DOM](/reading-notes/Code201/class-06)
-7. Read: 07 - HTML Tables; JS Constructor Functions
+7. [Read: 07 - HTML Tables; JS Constructor Functions](/reading-notes/Code201/class-07)
 8. Read: 08 - More CSS Layout
 9. Read: 09 - Forms and Events
 10. Read: 10 - JS Debugging
