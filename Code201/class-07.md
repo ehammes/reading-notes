@@ -4,7 +4,7 @@ via "HTML & CSS: Design and Build Websites" and "Javascript & JQuery: Interactiv
 
 ## Readings:
 
-## Domain Modeling ((GitHub)[https://github.com/codefellows/domain_modeling#domain-modeling])
+## Domain Modeling ([GitHub](https://github.com/codefellows/domain_modeling#domain-modeling))
 
 Domain modeling is the process of creating a conceptual model for a specific problem. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model. Tips on building domain models:
 
