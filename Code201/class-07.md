@@ -23,11 +23,11 @@ A **table** represents information in a grid report. Each bock in the grid is re
 - **`<tr>`**: table row, used at the start of each row
 - **`<td>`**: table data, used for each cell of a table
 - **`<th>`**: table heading, used to represent the heading for either a column or a row
-- The `colspan` attribute (ie. "`<td colspan="2">) can be used on a th or td element and indicates how many colunms that cell should span across.
+- The `colspan` attribute (ie. "`<td colspan="2">) can be used on a th or td element and indicates how many columns that cell should span across.
 - The `rowspan` attribute (ie. "`<td rowspan="2">) can be used on a th or td element and indicates how many rows a cell should span down the table.
 - **`<thead>`**: headings of a table should sit inside this element
 - **`<tbody>`**: the body should sit inside this element
-- **`<tfoot>`**: the footer belongs in this element. Using these elements will keep the header and footer visibile whilst the content of the table scroll.
+- **`<tfoot>`**: the footer belongs in this element. Using these elements will keep the header and footer visible whilst the content of the table scroll.
 - Old Code: using width attribute on the table, th, and td tags to specify width. Cellpadding on the table tag. Border and background attributes (CSS should be used instead)
 
 ## Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
@@ -36,7 +36,7 @@ The new keyword and the object constructor create a blank object. Properties and
 
 ---
 
-**Contructor Notation**: The constructor function is used to create **instances** of the object. The **new** keyword followed by a call to the cuntion creates a new object. The properties of each object are given as arguments to the function. Use the **new** keyword when creating an object using the constructor funciton. The name of a constructor function usually begins with a capital letter. The += operator is used to add content to an existing variable. Add properties using dot notation, delete a property using the **delete** keyword. Objects can be created through Literal Notation and Object Constructor Notation.
+**Constructor Notation**: The constructor function is used to create **instances** of the object. The **new** keyword followed by a call to the constructor creates a new object. The properties of each object are given as arguments to the function. Use the **new** keyword when creating an object using the constructor function. The name of a constructor function usually begins with a capital letter. The += operator is used to add content to an existing variable. Add properties using dot notation, delete a property using the **delete** keyword. Objects can be created through Literal Notation and Object Constructor Notation.
 
 **Global Scope or Global Context**: when a function is created at the top level of a script.
 
