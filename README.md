@@ -15,7 +15,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 7. [Read: 07 - HTML Tables; JS Constructor Functions](/reading-notes/Code201/class-07)
 8. [Read: 08 - More CSS Layout](/reading-notes/Code201/class-08)
 9. [Read: 09 - Forms and Events](/reading-notes/Code201/class-09)
-10. Read: 10 - JS Debugging
+10. [Read: 10 - JS Debugging](/reading-notes/Code201/class-10)
 11. Read: 11 - Assorted Topics
 12. Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
 13. Read: 13 - Local Storage
