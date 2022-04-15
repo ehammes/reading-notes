@@ -21,3 +21,7 @@ An **exception** occurs when a JavaScript statement generates an error. An Error
 - **EvalError**: incorrect use of eval() function
 
 Deal with Errors by debugging the script to fix errors or handle errors gracefully. **Debugging** is the process of finding errors. Determine where the problem is: relevant script that caused the problem, the line number, type of error, console log to determine how far the script is running, use breakpoints where things are going wrong. There are multiple console methods that can be used: `console.info()`, `console.warn()`, `console.error()`, `console.group()`, `console.table()`, `console.assert()`.
+
+##### Things I want to know more about
+
+Learn and practice more ways to debug and fix errors. Tips/tricks on approaches in identifying errors.
