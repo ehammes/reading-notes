@@ -1,4 +1,4 @@
-# Read: 09 - Forms and Events
+# Read: 10 - JS Debugging
 
 via "HTML & CSS: Design and Build Websites" and "Javascript & JQuery: Interactive front-end web development" by Jon Duckett
 
