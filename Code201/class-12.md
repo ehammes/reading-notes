@@ -4,12 +4,12 @@ Read [this article](https://www.webdesignerdepot.com/2013/11/easily-create-stunn
 
 Chart.js, a Javascript plugin, can be used to make all sorts of charts for graphing data such as line, bar, pie, etc. Examples of these can be viewed [here](https://www.webdesignerdepot.com/cdn-origin/uploads7/easily-create-stunning-animated-charts-with-chart-js/chartjs-demo.html) and additional information can be located [here](https://www.chartjs.org/docs/latest/).
 
-Read the following articles on the Canvas API.
+**Read the following articles on the Canvas API.**
 
-[Basic usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
-[Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
-[Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
-[Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+- [Basic usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+- [Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- [Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+- [Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 The Canvas element only has two properties: width, height - optional and can be configured via DOM properties. Fallback content can be defined in case of older browsers who do not support it. The Canvas element creates a fixed-size drawing surface that exposes one or more rendering contexts, which are used to create and manipulate the content shown. There are three functions that draw rectangles: `fillRect(x, y, width, height)` draws a filled rectangle, `strokeRect(x, y, width, height)` draws a rectangular outline, `clearRect(x, y, width, height)` clears the specified rectangular area, making it fully transparent. Functions to draw a path:
 
