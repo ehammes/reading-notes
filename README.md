@@ -19,7 +19,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 11. [Read: 11 - Assorted Topics](/reading-notes/Code201/class-11)
 12. [Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js](/reading-notes/Code201/class-12)
 13. [Read: 13 - Local Storage](/reading-notes/Code201/class-13)
-14.[Read: 14a - CSS Transforms, Transitions, and Animations](/reading-notes/Code201/class-14a)
+14. [Read: 14a - CSS Transforms, Transitions, and Animations](/reading-notes/Code201/class-14a)
 15. [Read: 14b - What Google Learned About Teams](/reading-notes/Code201/class-14b)
 
 ## **Code102 Reading Notes**
