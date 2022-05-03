@@ -1,10 +1,14 @@
 # About
 
-My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehammes). This page captures my class notes from Code102 and Code201.
+My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehammes). This page captures my class notes from Code102, Code201, and Code301.
 
 ![1619410098667](https://user-images.githubusercontent.com/84824067/158040576-f0fc5fbd-5271-41ee-8831-ab785796dff5.png)
 
-## **Code201 Reading Notes**
+## Reading Notes
+
+### **Code 301 - Intermediate Software Development**
+
+### **Code 201 - Foundations of Software Development**
 
 1. [Read: 01 - Introductory HTML and JavaScript](/reading-notes/Code201/class-01)
 2. [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](/reading-notes/Code201/class-02)
@@ -22,18 +26,22 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 14. [Read: 14a - CSS Transforms, Transitions, and Animations](/reading-notes/Code201/class-14a)
 15. [Read: 14b - What Google Learned About Teams](/reading-notes/Code201/class-14b)
 
-## **Code102 Reading Notes**
+### **Code 102 - Intro to Software Development**
+
+- [Read: 01 - Markdown Guide](/reading-notes/Code102/markdown-guide.md)
+- [Read: 02 - Coder's Computer Notes](/reading-notes/Code102/coders-computer-notes)
+- [Read: 03 - GitHub Intro Notes](/reading-notes/Code102/git-intro-notes)
+- [Read: 04 - HTML Notes](/reading-notes/Code102/HTML)
+- [Read: 05 - CSS Notes](/reading-notes/Code102/css-notes)
+- [Read: 06 - Javascript Notes](/reading-notes/Code102/javascript)
+- [Read: 07 - Programming with JS Notes](/reading-notes/Code102/programming-with-javascript-notes)
+- [Read: 08 - Operators and Loops Notes](/reading-notes/Code102/operatorsloops)
+
+----
+
+#### Notes
 
 - [Growth Mindset](/reading-notes/Code102/growth-mindset)
 - [What is GitHub](/reading-notes/Code102/github)
 - [Additional Learning Topics](/reading-notes/Code102/Learning-Topics)
 - [Articles](/reading-notes/Code102/articles)
-
-- [01 Markdown Guide](/reading-notes/Code102/markdown-guide.md)
-- [02 Coder's Computer Notes](/reading-notes/Code102/coders-computer-notes)
-- [03 GitHub Intro Notes](/reading-notes/Code102/git-intro-notes)
-- [04 HTML Notes](/reading-notes/Code102/HTML)
-- [05 CSS Notes](/reading-notes/Code102/css-notes)
-- [06 Javascript Notes](/reading-notes/Code102/javascript)
-- [07 Programming with JS Notes](/reading-notes/Code102/programming-with-javascript-notes)
-- [08 Operators and Loops Notes](/reading-notes/Code102/operatorsloops)
