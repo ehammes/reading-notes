@@ -8,6 +8,8 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 
 ### **Code 301 - Intermediate Software Development**
 
+1. [Read: 01 - Introduction to React and Components](/reading-notes/Code301/class-01)
+
 ### **Code 201 - Foundations of Software Development**
 
 1. [Read: 01 - Introductory HTML and JavaScript](/reading-notes/Code201/class-01)
