@@ -29,7 +29,7 @@
 - [React Docs - handling events](https://reactjs.org/docs/handling-events.html)
 - [React Tutorial through ‘Developer Tools’](https://reactjs.org/tutorial/tutorial.html)
 - [React Bootstrap Documentation](https://react-bootstrap.github.io/)
-- [Boootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
+- [Bootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
 - [Bootstrap Shuffle - a class “sandbox”](https://bootstrapshuffle.com/classes)
 - [Netlify](https://www.netlify.com/)
 
