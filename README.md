@@ -10,6 +10,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 
 1. [Read: 01 - Introduction to React and Components](/reading-notes/Code301/class-01)
 2. [Read: 02 - State and Props](/reading-notes/Code301/class-02)
+3. [Read: 03 - State and Props](/reading-notes/Code301/class-03)
 
 ### **Code 201 - Foundations of Software Development**
 
