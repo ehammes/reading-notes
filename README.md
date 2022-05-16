@@ -13,6 +13,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 3. [Read: 03 - Passing Functions as Props](/reading-notes/Code301/class-03)
 4. [Read: 04 - React and Forms](/reading-notes/Code301/class-04)
 5. [Read: 05 - Putting it all together](/reading-notes/Code301/class-05)
+6. [Read: 06 - Node.js](/reading-notes/Code301/class-06)
 
 ### **Code 201 - Foundations of Software Development**
 
