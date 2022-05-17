@@ -1,4 +1,4 @@
-# Read: 05 - Node.js
+# Read: 06 - Node.js
 
 ## Reading
 
@@ -28,10 +28,10 @@
 
 #### **Bookmark and Review**
 
-- [Geocoding API Docs](https://locationiq.com/)
-- [Axios docs](https://www.npmjs.com/package/axios)
-- [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+- **[Geocoding API Docs](https://locationiq.com/)**
+- **[Axios docs](https://www.npmjs.com/package/axios)**
+- **[MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)**
 
 ##### Things I want to know more about
 
-Need to continue to practice more pair programming
+Need to practice more pair programming
