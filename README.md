@@ -15,6 +15,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 5. [Read: 05 - Putting it all together](/reading-notes/Code301/class-05)
 6. [Read: 06 - Node.js](/reading-notes/Code301/class-06)
 7. [Read: 07 - REST](/reading-notes/Code301/class-07)
+8. [Read: 08 - APIs](/reading-notes/Code301/class-08)
 
 ### **Code 201 - Foundations of Software Development**
 
