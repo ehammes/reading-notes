@@ -17,6 +17,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 7. [Read: 07 - REST](/reading-notes/Code301/class-07)
 8. [Read: 08 - APIs](/reading-notes/Code301/class-08)
 9. [Read: 09 - Functional Programming](/reading-notes/Code301/class-09)
+10. [Read: 10 - In memory storage](/reading-notes/Code301/class-10)
 
 ### **Code 201 - Foundations of Software Development**
 
