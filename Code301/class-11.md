@@ -26,7 +26,7 @@
 - **What is a NoSQL database?** Can store lots of collections of data, but documents do not need to use schemas.
 - **How does it work?** Data can be fetched and new data can be added. There are no relations, but instead collections of data
 - **What is inside of a Mongo database?** MongoDB consists of a database, collections, and documents
-- **Which is more flexible - SQL or MongoDB? and why.** MongoDB - can be scaled horizontallly and vertically, has great performance for large read and write requests, and is schema-less
+- **Which is more flexible - SQL or MongoDB? and why.** MongoDB - can be scaled horizontally and vertically, has great performance for large read and write requests, and is schema-less
 - **What is the disadvantage of a NoSQL database?** If write requests effect multiple collections, NoSQL has very few relations
 
 #### Bookmark and Review
