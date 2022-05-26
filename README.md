@@ -21,6 +21,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 11. [Read: 11 - Mongo and Mongoose](/reading-notes/Code301/class-11)
 12. [Read: 12 - CRUD](/reading-notes/Code301/class-12)
 13. [Read: 13 - More CRUD](/reading-notes/Code301/class-13)
+14. [Read: 14 - Diversity & Inclusion in the Tech Industry](/reading-notes/Code301/class-14)
 
 ### **Code 201 - Foundations of Software Development**
 

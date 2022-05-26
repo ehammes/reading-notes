@@ -7,7 +7,7 @@
 - **In your own words, describe what each group of status code represents:**
   - 100’s = informational status codes
   - 200’s = success codes
-  - 300’s = redirection codes, the resource that is being requested is no longer avilable at the expected location
+  - 300’s = redirection codes, the resource that is being requested is no longer available at the expected location
   - 400’s = client error codes, invalid requests a client sent to a server
   - 500’s = server error codes
 - **What is a status code 202?** met all validation requirements at the time of sending
