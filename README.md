@@ -1,12 +1,14 @@
 # About
 
-My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehammes). This page captures my class notes from Code102, Code201, and Code301.
+My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehammes). This page captures my class notes from Code102, Code201, Code301, and Code401.
 
 ![1619410098667](https://user-images.githubusercontent.com/84824067/158040576-f0fc5fbd-5271-41ee-8831-ab785796dff5.png)
 
 ## Reading Notes
 
 ### **Code 401 - Advanced Software Development**
+
+* [Introduction to SQL](/reading-notes/Code401/SQL-practice.md)
 
 ### **Code 301 - Intermediate Software Development**
 
