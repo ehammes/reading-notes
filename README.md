@@ -10,6 +10,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 
 * [Introduction to SQL](/reading-notes/Code401/SQL-practice)
 * [Software Engineering Reading](/reading-notes/Code401/engineering-readings)
+* [Practice in the Terminal](/reading-notes/Code401/command-line)
 
 ### **Code 301 - Intermediate Software Development**
 
