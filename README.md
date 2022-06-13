@@ -9,6 +9,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 ### **Code 401 - Advanced Software Development**
 
 * [Introduction to SQL](/reading-notes/Code401/SQL-practice)
+* [Software Engineering Reading](/reading-notes/Code401/engineering-readings)
 
 ### **Code 301 - Intermediate Software Development**
 
