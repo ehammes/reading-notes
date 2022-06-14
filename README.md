@@ -12,6 +12,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Software Engineering Reading](/reading-notes/Code401/engineering-readings)
 * [Practice in the Terminal](/reading-notes/Code401/command-line)
 * [Read: 01 - Node Ecosystem](/reading-notes/Code401/class-01)
+* [Read: 02 - Express, NPM, TDD, CI/CD](/reading-notes/Code401/class-02)
 
 ### **Code 301 - Intermediate Software Development**
 
