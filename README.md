@@ -15,6 +15,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 02 - Express, NPM, TDD, CI/CD](/reading-notes/Code401/class-02)
 * [Read: 03 - Express REST API](/reading-notes/Code401/class-03)
 * [Read: 04 - Data Modeling](/reading-notes/Code401/class-04)
+* [Read: 05 - Linked Lists](/reading-notes/Code401/class-05)
 
 ### **Code 301 - Intermediate Software Development**
 
