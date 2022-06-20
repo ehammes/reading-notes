@@ -31,7 +31,7 @@
 4. A linked list is made up of a series of ________.
 5. What does a node contain?
 6. What are the different types of linked lists?
-7. What are the differencse between singly linked lists and doubly linked lists?
+7. What are the differences between singly linked lists and doubly linked lists?
 8. What is the Big O Notation?
 9. Show an example of a linked list and adding a node to the linked list - either by pseudo code or diagram.
 10. A circular linked list does not end with a node containing a  ______ value.
