@@ -6,7 +6,7 @@
 
 1. **Explain to a non-technical friend how you would safely hash and store a password.** An algorithm that stores plaintext passwords as hashes instead to represent the original password
 2. **What is Bcrypt?** Bcrypt slows down brute force attacks - Bcrypt is an adaptive hash function based on the Blowfish symmetric block cipher cryptographic algorithm and introduces a work factor (security factor), which allows you to determine how expensive the hash function will be.
-3. **Why might you use something like Bcrypt?** Minimize the impack of password breaches/hacks
+3. **Why might you use something like Bcrypt?** Minimize the impact of password breaches/hacks
 
 [Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
 
