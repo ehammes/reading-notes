@@ -18,6 +18,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 05 - Linked Lists](/reading-notes/Code401/class-05)
 * [Read: 06 - Authentication](/reading-notes/Code401/class-06)
 * [Read: 07 - Bearer Authentication](/reading-notes/Code401/class-07)
+* [Read: 08 - Access Control (ACL)](/reading-notes/Code401/class-08)
 
 ### **Code 301 - Intermediate Software Development**
 
