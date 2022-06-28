@@ -21,6 +21,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 08 - Access Control (ACL)](/reading-notes/Code401/class-08)
 * [Read: 10 - Stacks and Queues](/reading-notes/Code401/class-10)
 * [Read: 11 - Event Driven Applications](/reading-notes/Code401/class-11)
+* [Read: 12 - Socket.io](/reading-notes/Code401/class-12)
 
 ### **Code 301 - Intermediate Software Development**
 
