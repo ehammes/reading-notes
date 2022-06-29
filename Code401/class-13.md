@@ -22,4 +22,4 @@
 
 ### Bookmark and Review
 
-[Socket.io Emit Cheatsheet](Socket.io Emit Cheatsheet)
+[Socket.io Emit Cheatsheet](https://socket.io/docs/v4/emit-cheatsheet)
