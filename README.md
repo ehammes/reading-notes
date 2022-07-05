@@ -24,6 +24,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 12 - Socket.io](/reading-notes/Code401/class-12)
 * [Read: 13 - Message Queues](/reading-notes/Code401/class-13)
 * [Read: 15 - Trees](/reading-notes/Code401/class-15)
+* [Read: 16 - AWS: Cloud Servers](/reading-notes/Code401/class-16)
 
 ### **Code 301 - Intermediate Software Development**
 
