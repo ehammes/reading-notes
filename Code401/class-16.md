@@ -14,7 +14,7 @@
 2. **Explain the general difference between T2 Micro and XL.**
     * T2 Micro has vCPU, 1 GB of memory, EBS only internal storage
     * XL has more vCPU and memory
-3. **Explain a “Compute Cycle” to a non-technical friend.** A computer cycle fetches a machine languge from memory or cache, decodes and accesses it, and performs the operation
+3. **Explain a “Compute Cycle” to a non-technical friend.** A computer cycle fetches a machine language from memory or cache, decodes and accesses it, and performs the operation
 
 [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
 
