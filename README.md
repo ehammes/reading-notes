@@ -27,6 +27,8 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 16 - AWS: Cloud Servers](/reading-notes/Code401/class-16)
 * [Read: 17 - AWS: S3 and Lambda](/reading-notes/Code401/class-17)
 * [Read: 18 - AWS: API, Dynamo and Lambda](/reading-notes/Code401/class-18)
+* [Read: 19 - AWS: Events](/reading-notes/Code401/class-19)
+
 
 ### **Code 301 - Intermediate Software Development**
 
