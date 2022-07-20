@@ -30,6 +30,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 19 - AWS: Events](/reading-notes/Code401/class-19)
 * [Read: 26 - Component Based UI](/reading-notes/Code401/class-26)
 * [Read: 27 - useState() Hook](/reading-notes/Code401/class-27)
+* [Read: 28 - Component Lifecycle / useEffect Hook](/reading-notes/Code401/class-28)
 
 ### **Code 301 - Intermediate Software Development**
 
