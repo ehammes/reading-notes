@@ -31,6 +31,7 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 26 - Component Based UI](/reading-notes/Code401/class-26)
 * [Read: 27 - useState() Hook](/reading-notes/Code401/class-27)
 * [Read: 28 - Component Lifecycle / useEffect Hook](/reading-notes/Code401/class-28)
+* [Read: 29 - Advanced State with Reducers](/reading-notes/Code401/class-29)
 
 ### **Code 301 - Intermediate Software Development**
 
