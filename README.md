@@ -33,6 +33,9 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 28 - Component Lifecycle / useEffect Hook](/reading-notes/Code401/class-28)
 * [Read: 29 - Advanced State with Reducers](/reading-notes/Code401/class-29)
 * [Read: 30 - Hash Tables](/reading-notes/Code401/class-30)
+* [Read: 31 - Context API](/reading-notes/Code401/class-31)
+* [Read: 32 - Context API - Behaviors](/reading-notes/Code401/class-32)
+* [Read: 33 - Login and Auth](/reading-notes/Code401/class-33)
 
 ### **Code 301 - Intermediate Software Development**
 
