@@ -38,6 +38,8 @@ My name is Elizabeth and my GitHub can be viewed [here](https://github.com/ehamm
 * [Read: 33 - Login and Auth](/reading-notes/Code401/class-33)
 * [Read: 33 - Login and Auth](/reading-notes/Code401/class-33)
 * [Read: 34 - API Integration](/reading-notes/Code401/class-34)
+* [Read: 35 - Graphs](/reading-notes/Code401/class-35)
+* [Read: 36 - Application State with Redux](/reading-notes/Code401/class-36)
 
 ### **Code 301 - Intermediate Software Development**
 
